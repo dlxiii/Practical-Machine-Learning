@@ -1,11 +1,1 @@
 base
-corrgram
-randomForest
-lattice
-ggplot2
-caret
-tibble
-bitops
-rattle
-rpart
-rpart.plot
